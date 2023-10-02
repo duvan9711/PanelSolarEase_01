@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PanelSolarEase_01</string>
+    <string name="Solar">SolarEase</string>
+    <string name="Latitud">Latitud (grados decimales)</string>
+    <string name="Longitud">Longitud (grados decimales)</string>
+    <string name="Area">Área disponible para paneles (metros cuadrados)</string>
+    <string name="Inclinacion">Inclinación de los paneles: 30°</string>
+    <string name="Inclinacion2">Inclinación de los paneles:</string>
+    <string name="Calcular">Calcular producción de energía</string>
+</resources>
